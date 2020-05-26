@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_launcher_foreground" type="mipmap">@mipmap/ic_launcher_foreground_ru</item>
+    <item name="ic_launcher" type="mipmap">@mipmap/ic_launcher_ru</item>
+    <item name="ic_launcher_round" type="mipmap">@mipmap/ic_launcher_round_ru</item>
+</resources>
