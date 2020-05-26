@@ -1,1 +1,1 @@
-# as-mipmap-reference-bug
+# Android Studio mipmap reference bug
