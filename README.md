@@ -1,4 +1,6 @@
 # Android Studio mipmap reference bug
+https://issuetracker.google.com/issues/157498440
+
 1. Create a `drawables.xml` which defines a new mipmap reference.
 ```
 <?xml version="1.0" encoding="utf-8"?>
